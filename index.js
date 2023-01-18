@@ -206,8 +206,43 @@
 
 
 
-for (let i = 7; i < 8; i--) {
+// for (let i = 7; i < 8; i--) {
+
+// 	console.log(`i is ${i}`);
 	
-	console.log(`i is ${i}`);
+// }
+
+// const d = (a, b) => {
+// 	let narr = a.split("");
+// 		let narr1 = narr.shift();
+// 		let narr2 = narr.shift();
+// 	let aarr = a.split("");
+// 	let barr = b.split("");
+// 	let aarr1 = aarr.shift();
+// 	let aarr2 = aarr.shift();
+// 	let c = 0;
 	
-}
+	
+	
+	
+// 	for (let i = 0; i < b.length; i++){
+// 		let warr = narr;
+// 		console.log(warr);
+// 		let x = i + 1;
+// 		if (warr.join("") === barr.join("")) {
+// 			return c;
+// 		} else {
+// 			warr.splice(x, 0, aarr1, aarr2);
+
+// 			warr = narr;
+// 			console.log(warr, narr);
+// 			c++;
+// 		}
+
+
+// 	}
+	
+// 	return c;
+// };
+
+// console.log(d("eecoff", "coffee"));
